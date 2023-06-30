@@ -1,0 +1,23 @@
+body { background:white
+}
+
+ #image {
+    width: 100%;
+    height: 150px;
+ }
+ h1 {
+    text-align: center;
+ }
+ p {
+    text-align: center;
+ }
+  #missão{
+    font-size:35px;
+    text-align:center
+}
+h2{
+    font-size: 30px;
+}
+ul{
+    font-size: 25px;
+}
