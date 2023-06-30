@@ -1,0 +1,33 @@
+header{
+    background-color: #BBBB;
+}
+nav li{
+    display:inline;
+    margin:0 0 0 15px;
+}
+nav a{
+    text-transform: uppercase;
+    color:#000000;
+    font-weight:bold;
+    font-size:25px;
+    text-decoration:none;
+}
+.capitulo{
+    width: 940px;
+    margin: 0 auto;
+    padding: 50px 0;
+}
+.capitulo li{
+    display:inline-block;
+    text-align: center;
+    width: 25%;
+    vertical-align: top;
+}
+.capitulos h2{
+    font-size: 30px;
+    font-weight: bold;
+}
+.paginas{
+    font-size: 22;
+    font-weight: bold;
+}
